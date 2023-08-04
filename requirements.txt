@@ -9,3 +9,4 @@ contourpy>=1.0.1
 cycler>=0.10
 fonttools>=4.22.0
 networkx 
+PIL
