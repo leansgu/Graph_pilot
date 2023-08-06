@@ -11,3 +11,4 @@ fonttools>=4.22.0
 networkx 
 PIL
 transformers == 4.31.0
+opencv-python == 4.8.0.74
